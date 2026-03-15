@@ -1,0 +1,27 @@
+.blog-section {
+  padding: 60px 80px;
+  background: #f5f5f5;
+}
+
+.blog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.badge {
+  background: #fbb034;
+  padding: 8px 20px;
+  border-radius: 25px;
+  font-family: cursive;
+}
+
+.blog-btn {
+  background: #fbb034;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 25px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
